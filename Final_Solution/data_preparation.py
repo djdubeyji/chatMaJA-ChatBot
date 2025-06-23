@@ -38,7 +38,7 @@ for filename in os.listdir(directory_path):
 
 # Load tokenizer
 llama_model_name = 'meta-llama/Llama-2-7b-chat-hf'
-tokenizer = AutoTokenizer.from_pretrained(llama_model_name, token='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')
+tokenizer = AutoTokenizer.from_pretrained(llama_model_name, token='YOUR_HUGGINGFACE_AUTH_TOKEN')
 
 # Read the CSV file into a DataFrame
 master_df = copy.deepcopy(result_df)

@@ -10,4 +10,4 @@ services:
       - ./models:/app/models
       - ./db:/app/db
     environment:
-      - HF_AUTH=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
+      - HF_AUTH=your_huggingface_auth_token
