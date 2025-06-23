@@ -1,0 +1,24 @@
+Some examples of Test Data - yes/no questions for first abstract:
+
+1. Is Achondroplasia the most common cause of proportionate short stature?
+2. Can Achondroplasia be diagnosed by genetic testing alone?
+3. Is Vosoritide a recently approved treatment for Mucopolysaccharidosis Type II?
+4. Is Mucopolysaccharidosis Type II also known as Hunter syndrome?
+5. Is Achondroplasia typically inherited in an autosomal recessive manner?
+6. Can Achondroplasia lead to obstructive sleep apnea and spinal stenosis?
+7. Is weekly enzyme replacement therapy (ERT) an approved treatment for Mucopolysaccharidosis Type II?
+8. Is Mucopolysaccharidosis Type II an X-linked disorder affecting both males and females?
+9. Are individuals with Achondroplasia advised to avoid activities with a risk of injury to the craniocervical junction?
+10. Is cesarean section delivery recommended for pregnant women with Achondroplasia due to small pelvic size?
+
+
+1. No
+2. No
+3. No
+4. Yes
+5. No
+6. Yes
+7. Yes
+8. Yes
+9. Yes
+10. Yes

@@ -1,0 +1,8 @@
+# Ignore everything
+*
+# But not these files:
+!templates/
+!app.py
+!master_with_embeddings.csv
+!qa_pipeline.py
+!requirements.txt

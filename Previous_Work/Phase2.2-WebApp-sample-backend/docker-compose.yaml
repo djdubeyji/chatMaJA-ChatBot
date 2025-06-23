@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  chatmaja:
+    image: chatmaja/v2
+    build: .
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./models:/app/models
+      - ./db:/app/db
+    environment:
+      - HF_AUTH=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

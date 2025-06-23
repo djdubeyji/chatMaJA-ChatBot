@@ -1,0 +1,57 @@
+<html>
+<title>ChatMaJA UI</title>
+
+<style>
+        .chat-container {
+          width: 500px;
+          margin: 0 auto;
+        }
+      
+        .chat-header {
+          text-align: center;
+          font-size: 24px;
+        }
+      
+        .chat-input {
+          width: 100%;
+          padding: 10px;
+          margin-bottom: 10px;
+          border: 1px solid #ccc;
+        }
+      
+        .chat-output {
+          height: 200px;
+          overflow-y: scroll;
+          background-color: #eee;
+          padding: 10px;
+        }
+      
+        .chat-message {
+          margin-bottom: 10px;
+    }
+    #bottom {
+			position: absolute;
+			bottom: 0;
+		}
+      h1{text-align: center;} 
+      h2{text-align: center;} 
+      h3{text-align: center;} 
+</style>
+<body style="background-color:#1c262d">
+  
+    <div class="chat-container">
+        <div class="chat-header" style="color:rgb(255, 255, 255);"><h1>ChatMaJA</h1></div>
+   <table>
+          <tr>
+        <th width = 500px ><input type="text" class="chat-input" placeholder="How can I help you today?"></th>
+        <th><button type="button" id="chat-submit">Send</button></th>
+      </tr>
+      </table>
+      <div class="chat-output"></div>
+    </div>
+
+    <div class="chat-message">
+    <div id= "bottom" text-align="center" style="color:rgb(221, 219, 219);"> <h3>ChatMaJA can make mistakes. Consider checking important information.</h3></div>
+    </div>
+</body>
+</html>
